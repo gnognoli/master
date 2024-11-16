@@ -1,0 +1,23 @@
+2023/03/12-10:38:30.562 a907 Creating DB /private/var/folders/gf/828c9kj541sdssvctyt55yd00000gn/T/flutter_tools.Lj1rOV/flutter_tools_chrome_device.xd1uIM/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/12-10:38:30.597 a907 Reusing MANIFEST /private/var/folders/gf/828c9kj541sdssvctyt55yd00000gn/T/flutter_tools.Lj1rOV/flutter_tools_chrome_device.xd1uIM/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/12-11:27:18.429 13947 Level-0 table #5: started
+2023/03/12-11:27:18.465 13947 Level-0 table #5: 1038883 bytes OK
+2023/03/12-11:27:18.488 13947 Delete type=0 #3
+2023/03/12-11:52:07.694 11373 Level-0 table #7: started
+2023/03/12-11:52:07.727 11373 Level-0 table #7: 1002599 bytes OK
+2023/03/12-11:52:07.755 11373 Delete type=0 #4
+2023/03/12-11:55:33.876 17ba3 Compacting 1@1 + 1@2 files
+2023/03/12-11:55:33.918 17ba3 Generated table #8@1: 609 keys, 41696 bytes
+2023/03/12-11:55:33.918 17ba3 Compacted 1@1 + 1@2 files => 41696 bytes
+2023/03/12-11:55:33.943 17ba3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/12-11:55:33.943 17ba3 Delete type=2 #7
+2023/03/12-11:55:33.944 17ba3 Delete type=2 #5
+2023/03/12-12:26:54.482 349d7 Level-0 table #10: started
+2023/03/12-12:26:54.515 349d7 Level-0 table #10: 1091977 bytes OK
+2023/03/12-12:26:54.539 349d7 Delete type=0 #6
+2023/03/12-12:28:51.439 349d7 Compacting 1@1 + 1@2 files
+2023/03/12-12:28:51.471 349d7 Generated table #11@1: 623 keys, 34862 bytes
+2023/03/12-12:28:51.471 349d7 Compacted 1@1 + 1@2 files => 34862 bytes
+2023/03/12-12:28:51.498 349d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/12-12:28:51.498 349d7 Delete type=2 #10
+2023/03/12-12:28:51.498 349d7 Delete type=2 #8
